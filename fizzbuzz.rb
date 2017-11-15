@@ -1,11 +1,2 @@
-def fizzbuzz(int)
-  if int%3==0 && int%5==0
-    "FizzBuzz"
-  elsif int%5==0
-    "Buzz"
-  elsif int%3==0
-    "Fiz"
-  else
-    nil
-  end
+def fizzbuzz
 end
